@@ -1,0 +1,24 @@
+﻿mode=stress ships=4000 asteroids=200 steps=300 warmup=30
+avg_ms=13.049 p95_ms=18.131 p99_ms=21.943 max_ms=23.573 stage_avg_ms=13.047 cpu_avg_ms=12.135
+sim_steps_per_sec=77 final_ships=3772 final_asteroids=190 final_lights=238 final_beams=339
+measured_shots=27256 ship_deaths=228 asteroid_deaths=192
+factions=943/948/942/939 states_atk/col/min/idle=3694/0/0/78
+stage,total_ms,avg_ms,pct_of_step,calls
+total,3914.0772,13.04692,100.00,300
+ships,1823.8178,6.07939,46.60,300
+ship_decide,465.0340,1.55011,11.88,43443
+ship_scan,501.2052,1.67068,12.81,148454
+asteroids,3.5473,0.01182,0.09,300
+lights,1.2246,0.00408,0.03,300
+beams,2.8540,0.00951,0.07,300
+zones,0.1372,0.00046,0.00,300
+rebuild_grids,333.8647,1.11288,8.53,300
+collisions,1432.0915,4.77364,36.59,300
+collect_lights,201.4035,0.67135,5.15,300
+building,32.5626,0.10854,0.83,300
+rebellion,1.9326,0.00644,0.05,300
+trails,48.0793,0.16026,1.23,300
+cleanup,22.8984,0.07633,0.59,300
+flush_requests,0.1120,0.00037,0.00,300
+spawning,0.0343,0.00011,0.00,300
+active_count,8.8424,0.02947,0.23,300

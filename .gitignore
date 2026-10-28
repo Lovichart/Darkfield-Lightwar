@@ -1,0 +1,38 @@
+# build outputs
+x64/
+Debug/
+Release/
+*.user
+*.pdb
+*.ilk
+*.obj
+*.tlog
+*.idb
+*.ipdb
+*.iobj
+
+# local verification
+tmp/
+worktrees/
+
+# backups / distributions
+backup/
+dist/
+*.zip
+*.7z
+
+# visual studio
+.vs/
+
+# proprietary or optional local fonts (only LXGW WenKai is bundled)
+Darkfield Lightwar/fonts/arial.ttf
+Darkfield Lightwar/fonts/msyh.ttc
+Darkfield Lightwar/fonts/SourceHanSans-Light.ttf
+Darkfield Lightwar/fonts/SmileySans-Oblique.otf
+
+# local AI tooling — not part of the published game
+AI工具箱/
+
+# OS junk
+Thumbs.db
+Desktop.ini

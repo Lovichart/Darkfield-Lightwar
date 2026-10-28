@@ -1,0 +1,61 @@
+ships=1000 asteroids=200 steps=120 avg_ms=0.509133 p95_ms=0.8633 p99_ms=1.0841 max_ms=1.1409 final_ships=965 final_asteroids=221 final_lights=146
+ships=10000 asteroids=400 steps=180 avg_ms=10.4387 p95_ms=22.7705 p99_ms=24.4197 max_ms=25.4616 final_ships=9463 final_asteroids=359 final_lights=198
+ships=4000 asteroids=400 steps=180 avg_ms=3.26683 p95_ms=6.4623 p99_ms=7.3962 max_ms=7.7314 final_ships=3819 final_asteroids=285 final_lights=174
+ships=10000 asteroids=400 steps=180 avg_ms=13.6279 p95_ms=30.4798 p99_ms=52.0156 max_ms=59.8046 final_ships=9463 final_asteroids=359 final_lights=198
+ships=10000 asteroids=400 steps=180 avg_ms=8.76362 p95_ms=15.8149 p99_ms=28.4816 max_ms=34.7941 final_ships=8617 final_asteroids=359 final_lights=371
+ships=4000 asteroids=400 steps=180 avg_ms=3.06781 p95_ms=6.0078 p99_ms=7.2234 max_ms=8.7073 final_ships=3403 final_asteroids=360 final_lights=392
+ships=10000 asteroids=400 steps=180 avg_ms=11.3388 p95_ms=23.3948 p99_ms=35.6689 max_ms=41.4168 final_ships=9403 final_asteroids=359 final_lights=224
+ships=10000 asteroids=400 steps=180 avg_ms=8.21598 p95_ms=14.8335 p99_ms=16.5713 max_ms=16.8111 final_ships=8617 final_asteroids=359 final_lights=371
+ships=10000 asteroids=400 steps=180 avg_ms=10.7181 p95_ms=20.4292 p99_ms=26.4781 max_ms=66.5914 final_ships=9403 final_asteroids=359 final_lights=224
+ships=10000 asteroids=400 steps=180 avg_ms=8.5051 p95_ms=15.2709 p99_ms=19.2847 max_ms=19.5405 final_ships=8617 final_asteroids=359 final_lights=371
+ships=10000 asteroids=400 steps=180 avg_ms=10.3494 p95_ms=19.1388 p99_ms=24.2887 max_ms=61.2784 final_ships=9403 final_asteroids=359 final_lights=224
+ships=10000 asteroids=400 steps=180 avg_ms=8.6296 p95_ms=15.7294 p99_ms=23.3977 max_ms=24.724 final_ships=8617 final_asteroids=359 final_lights=371
+ships=10000 asteroids=400 steps=180 avg_ms=10.4951 p95_ms=21.0127 p99_ms=23.7624 max_ms=30.703 final_ships=9403 final_asteroids=359 final_lights=224
+ships=10000 asteroids=0 steps=180 avg_ms=7.8076 p95_ms=14.9998 p99_ms=18.774 max_ms=19.8771 final_ships=8877 final_asteroids=357 final_lights=651
+ships=10000 asteroids=0 steps=180 avg_ms=8.15703 p95_ms=13.8673 p99_ms=29.3093 max_ms=104.866 final_ships=8433 final_asteroids=286 final_lights=733
+ships=400 asteroids=50 steps=60 avg_ms=0.21572 p95_ms=0.3968 p99_ms=1.0716 max_ms=1.0716 final_ships=400 final_asteroids=56 final_lights=9
+ships=10000 asteroids=0 steps=180 avg_ms=9.1438 p95_ms=19.6292 p99_ms=25.1727 max_ms=30.469 final_ships=8873 final_asteroids=356 final_lights=671
+ships=10000 asteroids=0 steps=180 avg_ms=8.28101 p95_ms=14.9202 p99_ms=17.1397 max_ms=17.2882 final_ships=8433 final_asteroids=286 final_lights=733
+ships=10000 asteroids=0 steps=180 avg_ms=8.48007 p95_ms=15.464 p99_ms=27.0202 max_ms=30.9693 final_ships=8873 final_asteroids=356 final_lights=671
+ships=10000 asteroids=0 steps=180 avg_ms=7.71913 p95_ms=13.6419 p99_ms=16.1492 max_ms=16.7908 final_ships=8433 final_asteroids=286 final_lights=733
+ships=10000 asteroids=0 steps=180 avg_ms=8.92115 p95_ms=22.2928 p99_ms=34.6656 max_ms=44.875 final_ships=8873 final_asteroids=356 final_lights=671
+ships=10000 asteroids=0 steps=180 avg_ms=7.67695 p95_ms=14.6578 p99_ms=19.0375 max_ms=20.1282 final_ships=8433 final_asteroids=286 final_lights=733
+ships=10000 asteroids=0 steps=180 avg_ms=7.46058 p95_ms=13.4168 p99_ms=37.3859 max_ms=43.2568 final_ships=8873 final_asteroids=356 final_lights=671
+ships=10000 asteroids=0 steps=180 avg_ms=7.6402 p95_ms=14.1365 p99_ms=17.1847 max_ms=20.6351 final_ships=8433 final_asteroids=286 final_lights=733
+ships=10000 asteroids=0 steps=180 avg_ms=8.42753 p95_ms=16.7623 p99_ms=20.5838 max_ms=25.512 final_ships=8873 final_asteroids=356 final_lights=671
+ships=10000 asteroids=0 steps=180 avg_ms=6.95431 p95_ms=12.6126 p99_ms=14.1236 max_ms=14.2964 final_ships=8873 final_asteroids=356 final_lights=671
+ships=10000 asteroids=0 steps=180 avg_ms=7.23925 p95_ms=13.1077 p99_ms=16.7605 max_ms=21.52 final_ships=8873 final_asteroids=356 final_lights=671
+ships=10000 asteroids=0 steps=180 avg_ms=7.68124 p95_ms=13.9037 p99_ms=15.7222 max_ms=17.3811 final_ships=8433 final_asteroids=286 final_lights=733
+ships=10000 asteroids=0 steps=180 avg_ms=8.10885 p95_ms=14.8744 p99_ms=40.6717 max_ms=56.9851 final_ships=8433 final_asteroids=286 final_lights=733
+ships=10000 asteroids=0 steps=180 avg_ms=7.06806 p95_ms=12.9518 p99_ms=14.1683 max_ms=14.1706 final_ships=8433 final_asteroids=286 final_lights=733
+ships=10000 asteroids=400 steps=180 avg_ms=12.6726 p95_ms=26.5026 p99_ms=31.8426 max_ms=52.0458 final_ships=9434 final_asteroids=357 final_lights=256
+ships=4000 asteroids=0 steps=180 avg_ms=1.83015 p95_ms=3.2463 p99_ms=4.0862 max_ms=4.2354 final_ships=3630 final_asteroids=147 final_lights=328 final_stopped=27
+ships=4000 asteroids=0 steps=180 avg_ms=1.70556 p95_ms=2.9747 p99_ms=3.8517 max_ms=4.3907 final_ships=3630 final_asteroids=147 final_lights=328 final_stopped=0
+ships=10000 asteroids=0 steps=180 avg_ms=6.42402 p95_ms=11.0692 p99_ms=12.4749 max_ms=12.9872 final_ships=8873 final_asteroids=356 final_lights=671 final_stopped=0
+ships=400 asteroids=20 steps=60 avg_ms=0.263217 p95_ms=0.5928 p99_ms=0.7543 max_ms=0.7543 final_ships=400 final_asteroids=26 final_lights=3 final_stopped=0
+ships=10000 asteroids=0 steps=180 avg_ms=6.8888 p95_ms=14.4533 p99_ms=21.9651 max_ms=23.5459 final_ships=9697 final_asteroids=64 final_lights=197 final_stopped=0
+ships=10000 asteroids=0 steps=180 avg_ms=6.62178 p95_ms=14.2696 p99_ms=16.3484 max_ms=18.64 final_ships=9874 final_asteroids=51 final_lights=97 final_stopped=0
+ships=10000 asteroids=400 steps=180 avg_ms=9.77276 p95_ms=21.9362 p99_ms=27.5287 max_ms=28.9165 final_ships=3679 final_asteroids=357 final_lights=477 final_stopped=0
+ships=10000 asteroids=400 steps=180 avg_ms=6.8378 p95_ms=19.1418 p99_ms=23.9478 max_ms=25.1799 final_ships=1255 final_asteroids=357 final_lights=388 final_stopped=0
+ships=400 asteroids=20 steps=60 avg_ms=0.177835 p95_ms=0.2523 p99_ms=0.3191 max_ms=0.3191 final_ships=352 final_asteroids=38 final_lights=144 final_stopped=0
+ships=10000 asteroids=0 steps=180 avg_ms=8.01789 p95_ms=17.2498 p99_ms=25.8818 max_ms=48.8753 final_ships=9867 final_asteroids=36 final_lights=175 final_stopped=0
+ships=10000 asteroids=0 steps=180 avg_ms=5.99504 p95_ms=11.5018 p99_ms=18.5128 max_ms=18.7845 final_ships=9695 final_asteroids=72 final_lights=203 final_stopped=0
+ships=1000 asteroids=0 steps=60 avg_ms=0.429193 p95_ms=1.0531 p99_ms=1.2179 max_ms=1.2179 final_ships=999 final_asteroids=6 final_lights=8 final_stopped=0
+ships=10000 asteroids=0 steps=180 avg_ms=7.04462 p95_ms=15.2448 p99_ms=28.9685 max_ms=36.7575 final_ships=9695 final_asteroids=72 final_lights=203 final_stopped=0
+ships=4000 asteroids=0 steps=180 avg_ms=1.60895 p95_ms=3.0028 p99_ms=3.8698 max_ms=4.2611 final_ships=3920 final_asteroids=28 final_lights=71 final_stopped=0
+ships=10000 asteroids=0 steps=180 avg_ms=8.53313 p95_ms=18.5533 p99_ms=24.9718 max_ms=26.2298 final_ships=9695 final_asteroids=72 final_lights=203 final_stopped=0
+ships=10000 asteroids=0 steps=180 avg_ms=7.7268 p95_ms=14.9652 p99_ms=20.9686 max_ms=21.6605 final_ships=9695 final_asteroids=72 final_lights=203 final_stopped=0
+ships=10000 asteroids=0 steps=180 avg_ms=7.90868 p95_ms=14.6948 p99_ms=23.6478 max_ms=25.4941 final_ships=9695 final_asteroids=72 final_lights=203 final_stopped=0
+ships=10000 asteroids=0 steps=180 avg_ms=7.70225 p95_ms=17.4799 p99_ms=39.8843 max_ms=44.7908 final_ships=9695 final_asteroids=72 final_lights=203 final_stopped=0
+ships=10000 asteroids=0 steps=180 avg_ms=6.11915 p95_ms=12.0201 p99_ms=17.3926 max_ms=20.7466 final_ships=9695 final_asteroids=72 final_lights=203 final_stopped=0
+ships=10000 asteroids=0 steps=180 avg_ms=6.2797 p95_ms=12.5781 p99_ms=19.1495 max_ms=21.8764 final_ships=9695 final_asteroids=72 final_lights=203 final_stopped=0
+ships=20000 asteroids=0 steps=180 avg_ms=19.2009 p95_ms=35.1502 p99_ms=70.3999 max_ms=76.0901 final_ships=19396 final_asteroids=116 final_lights=385 final_stopped=0
+ships=10000 asteroids=0 steps=720 avg_ms=6.3984 p95_ms=11.4084 p99_ms=16.1039 max_ms=19.9751 final_ships=4863 final_asteroids=353 final_lights=550 final_stopped=0
+ships=10000 asteroids=0 steps=180 avg_ms=6.58901 p95_ms=13.2911 p99_ms=18.177 max_ms=20.9423 final_ships=9695 final_asteroids=72 final_lights=203 final_stopped=0
+ships=10000 asteroids=0 steps=180 avg_ms=7.15971 p95_ms=14.7002 p99_ms=24.6882 max_ms=35.4533 final_ships=9695 final_asteroids=72 final_lights=203 final_stopped=0
+ships=10000 asteroids=0 steps=180 avg_ms=6.18062 p95_ms=11.9174 p99_ms=18.5309 max_ms=19.3248 final_ships=9695 final_asteroids=72 final_lights=203 final_stopped=0
+ships=20000 asteroids=0 steps=180 avg_ms=18.7066 p95_ms=33.8207 p99_ms=65.8752 max_ms=67.3693 final_ships=19396 final_asteroids=116 final_lights=385 final_stopped=0
+ships=1000 asteroids=0 steps=120 avg_ms=0.368815 p95_ms=0.6597 p99_ms=0.9494 max_ms=1.2859 final_ships=995 final_asteroids=9 final_lights=20 final_stopped=0
+ships=10000 asteroids=0 steps=180 avg_ms=7.20494 p95_ms=14.2549 p99_ms=19.5722 max_ms=25.7714 final_ships=9675 final_asteroids=85 final_lights=183 final_stopped=0
+ships=10000 asteroids=0 steps=180 avg_ms=6.69874 p95_ms=12.4781 p99_ms=18.5158 max_ms=26.9548 final_ships=9675 final_asteroids=85 final_lights=183 final_stopped=0
+ships=20000 asteroids=0 steps=180 avg_ms=19.183 p95_ms=33.3376 p99_ms=65.509 max_ms=73.4269 final_ships=19494 final_asteroids=103 final_lights=265 final_stopped=0
